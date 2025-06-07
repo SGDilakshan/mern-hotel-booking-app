@@ -1,0 +1,20 @@
+{
+  "name": "mern-hotel-booking-app",
+  "version": "1.0.0",
+  "description": "Full Stack Hotel Booking App using MERN Stack with Clerk Auth, Admin Dashboard, Stripe Payments, and Email Confirmation. Features hotel listings, booking system, and user authentication. Built with React, Node.js, Express, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGDilakshan/mern-hotel-booking-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGDilakshan/mern-hotel-booking-app/issues"
+  },
+  "homepage": "https://github.com/SGDilakshan/mern-hotel-booking-app#readme"
+}
